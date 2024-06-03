@@ -1,7 +1,7 @@
 # Diabetes Care Assistant
 
 ## Overview
-Diabetes Care Assistant is a Java-based application designed to assist healthcare professionals in generating personalized treatment plans for patients with diabetes. Developed during a hackathon, this project utilizes Java Swing for its user interface and focuses on managing and using patient data effectively.
+Diabetes Care Assistant is a Java-based application designed to assist healthcare professionals in generating personalized treatment plans for patients with diabetes. This project was developed during a hackathon where it secured 2nd place, demonstrating effective application of Java Swing for user interfaces and robust data management. The application focuses on effectively managing and using patient data to generate treatment plans.
 
 ## Features
 - **Patient Data Management**: Users can input and manage detailed patient information including medical history and current conditions.
