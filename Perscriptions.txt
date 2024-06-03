@@ -1,0 +1,11 @@
+Name	Age	Medical History	Current Condition	Medication	Dosage
+Maria Thompson	28	"Gestational diabetes, PCOS, no UTI, occasional alcohol"	"28 weeks pregnant, UTI diagnosed"	Novolin R Flexpen are short acting insulins common for pregnancy 	1 per day
+John Anderson	78	"Type 2 diabetes, Hypertension, history of smoking, no prior history of respitory illness"	"Pneumonia, experiencing increased fatigue and shortness of breath."	"Humilin R U-100 Insulin, antibiotics for pneumonia"	0.4 daily
+Emily Chen	45	"Diabetes, hypertension, moderate alcohol consumption"	"stage 3 CKD, fatigue, swelling in the feet and ankles"	Empagliflozin (jardiance) 	5mg daily
+Alex Johnson	60	"diabetes, ischemic stroke, hypertension, non-smoker, light alcoholic"	"recent stroke, undergoing physical therapy, moderate left side weakness, post-stroke complication"	Glipizide (glucotrol) for patients who recently had a stroke	2.5mg daily
+Linda Kim	52	"diabetes, cancer"	"stage II breast cancer, mild fatigue"	Metformin (helps in cancer prevention and also good for diabetes)	500mg daily
+Robert Hernandez	68	"type 2 diabetes, Parkinson's disease, tremors, hypertension"	"diabetes + Parkinson's, Parkinson's affects physical activity and diet management"	Stagliptin (Januvia) (compatible with kidney function)	100mg daily
+Sarah Nguyen 	38	"severe allergic reaction (allergic asthma), diabetes, various allergies "	"asthma, environmental allergens"	"Metformin, Corticosteroids (ICS) (for asthma and diabetes)"	500mg daily
+Kevin Brooks	43	"Type 2 diabetes, bipolar disorder, mental health conditions"	psychiatrist treatment	Proglitazone (improves insulin and beneficial for BPD)	500mg daily
+Olivia Smith 	50	"diabetes, rheumatoid arthiritis, join pain, stiffness, swelling"	"joint pain, stiffness, inflammation"	"dioglitazore (antiinflammatory, helpful for arthiritis and diabetes)"	500mg daily
+Isabel Martinez	34	"Type 2 diabetes, ehlers-danlos syndrome type III"	joint pain	Metformin (reduces glucose production and improves insulin sensitivity)	15mg daily
